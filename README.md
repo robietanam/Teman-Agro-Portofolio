@@ -7,4 +7,4 @@ Fitur :
 - Manajemen Pegawai ( Gaji dan Jadwal )
 - Rekap Laporan Gaji dan Keuangan
 
-https://github.com/robietanam/TemanAgro/releases
+Download : https://github.com/robietanam/TemanAgro/releases
